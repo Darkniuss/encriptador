@@ -41,7 +41,7 @@
 body{
 
 padding: 0px;
-width: 1500px;
+
 
 }
 
@@ -70,9 +70,8 @@ width: 1500px;
     flex-direction: row;
     background-size: cover;
     background-position: center;
-    width: 1800px;
     height: 1000px;
-    padding: 50px;    
+        
     
 
 }
@@ -80,7 +79,7 @@ width: 1500px;
 .main__section{
 
     width: 60%;
-    margin: 168px 0px 0px 240px;
+    margin: 100px 0px 0px 200px;
     background: transparent;
 
 
@@ -88,7 +87,7 @@ width: 1500px;
 .encriptar__box{
 
     width: 557px;
-    height: 701px;
+    height: 550px;
     font-weight: 400;
     font-size: 32px;
     line-height: 48px;
@@ -202,7 +201,7 @@ width: 1500px;
 .desencriptar__box{
 
     width: 400px;
-    height: 944px;
+    height: 800px;
     background: var(--White);
     box-shadow: 10px 24px 32px -4px var(--Gray);
     position: relative;
